@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.error {
+    background: url('error.gif');
+    width: 652px;
+    height: 93px;
+    display: inline-block;
+}
+
+.spinner {
+    background: url('spinner.gif');
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+}
